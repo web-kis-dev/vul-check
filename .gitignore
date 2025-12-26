@@ -1,0 +1,28 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration & Secrets (API Keys)
+gradle.properties
+
+# Downloaded dependencies (Custom task output)
+download/
+download.zip
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+bin/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Reports
+reports/
